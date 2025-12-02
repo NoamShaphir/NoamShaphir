@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Quantitative Analyst & Data Scientist
 
-I am a Computer Science student with a strong passion for **Financial Technology**, **Machine Learning**, and **Algorithmic Trading**. My academic focus lies at the intersection of advanced mathematics, data analysis, and software engineering.
+I am a Computer Science student with a strong passion for **Financial Technology**, **Machine Learning**, and **Data Science**. My academic focus lies at the intersection of advanced mathematics, data analysis, and software engineering.
 
 Currently finishing my B.Sc. and preparing for an **M.Sc. in Financial Mathematics (FinTech track)** at Bar-Ilan University.
 

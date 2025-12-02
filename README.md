@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Noam 👋
 
-<!--
-**NoamShaphir/NoamShaphir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Quantitative Analyst & Data Scientist
 
-Here are some ideas to get you started:
+I am a Computer Science student with a strong passion for **Financial Technology**, **Machine Learning**, and **Algorithmic Trading**. My academic focus lies at the intersection of advanced mathematics, data analysis, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently finishing my B.Sc. and preparing for an **M.Sc. in Financial Mathematics (FinTech track)** at Bar-Ilan University.
+
+---
+
+### 🧠 What I Do
+
+* 🎓 **B.Sc. Computer Science** student at HIT (3rd Year).
+* 🏆 **Proven Excellence in ML:** Achieved **100** in Machine Learning & Introduction to Data Science courses.
+* 📈 **Focus:** Building predictive models, analyzing financial data, and optimizing algorithms.
+* 🔭 **Currently working on:** Deep Learning projects using TensorFlow/Keras and strengthening my C++ skills for Low Latency systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Data Science & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools & Environment**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 💡 Featured Projects
+
+#### 🌡️ [MicroClimate - Occupancy Detection Model](LINK_TO_REPO)
+* **Goal:** Predict room occupancy using non-intrusive environmental sensors (CO₂, Temperature, Humidity).
+* **Tech:** Python, Scikit-Learn, RandomForest Classifier.
+* **Result:** Achieved **98% accuracy**.
+* **Highlight:** Implemented strategic feature engineering to remove light dependency for robust day/night performance.
+
+*(More projects coming soon...)*
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/noam-shaphir-cs/
+* 📧 **Email:** noam.shaphir@gmail.com
+
+---
+⭐️ *“In God we trust. All others must bring data.”* – W. Edwards Deming

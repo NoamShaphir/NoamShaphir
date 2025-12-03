@@ -40,7 +40,7 @@ Currently finishing my B.Sc. and preparing for an **M.Sc. in Financial Mathemati
 
 ### 💡 Featured Projects
 
-#### 🌡️ [MicroClimate - Occupancy Detection Model](LINK_TO_REPO)
+#### 🌡️ [MicroClimate - Occupancy Detection Model](https://github.com/NoamShaphir/-MicroClimate.git)
 * **Goal:** Predict room occupancy using non-intrusive environmental sensors (CO₂, Temperature, Humidity).
 * **Tech:** Python, Scikit-Learn, RandomForest Classifier.
 * **Result:** Achieved **98% accuracy**.

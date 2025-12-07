@@ -13,7 +13,7 @@ Currently finishing my B.Sc. and preparing for an **M.Sc. in Financial Mathemati
 * 🎓 **B.Sc. Computer Science** student at HIT (3rd Year).
 * 🏆 **Proven Excellence in ML:** Achieved **100** in Machine Learning & Introduction to Data Science courses.
 * 📈 **Focus:** Building predictive models, analyzing financial data, and optimizing algorithms.
-* 🔭 **Currently working on:** Deep Learning projects using TensorFlow/Keras and strengthening my C++ skills for Low Latency systems.
+* 🔭 **Currently working on:** Deep Learning projects using PyTorch and strengthening my C++ skills for Low Latency systems.
 
 ---
 

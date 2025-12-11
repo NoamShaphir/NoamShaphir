@@ -44,6 +44,12 @@ Currently finishing my B.Sc. and preparing for an **M.Sc. in Financial Mathemati
 * **Result:** Achieved **98% accuracy**.
 * **Highlight:** Implemented strategic feature engineering to remove light dependency for robust day/night performance.
 
+#### [Airbnb Cross-City Valuation] (https://github.com/NoamShaphir/airbnb-pricing)
+* **Goal:** Build a robust pricing model trained on London data and test its generalization capabilities on unseen citie Amsterdam.
+* **Tech:** Python, Pandas, Scikit-Learn (Random Forest), Geospatial Engineering.
+* **Result:** Achieved 66% R² in London and successfully transferred logic to Amsterdam (~37% Zero-shot accuracy).
+* **Highlight:** Engineered universal geospatial features to prove economic pricing laws across Europe, while identifying "Domain Shift" limitations in Asian markets.
+
 *(More projects coming soon...)*
 
 ---
